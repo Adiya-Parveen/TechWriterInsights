@@ -48,3 +48,22 @@ Before you start writing, decide on the unities—pronoun usage, tense, mood, an
 these anchor your writing and keep your reader engaged. Collect more material than you 
 think you’ll need, but don’t get stuck in perpetual research. At some point, you must 
 stop gathering information and start writing.
+
+### The Tools of Writing: Verbs, Adverbs, and Adjectives
+
+**Verbs:** Use active verbs unless a passive verb is absolutely necessary. Active verbs 
+give momentum to your sentences, making them more dynamic and engaging. For example, 
+"Joe saw him" is stronger than "He was seen by Joe." Active verbs also help readers 
+visualize actions more clearly.
+
+**Adverbs:** Most adverbs are unnecessary and often redundant. A strong verb usually 
+conveys the meaning without needing an adverb. Careless writing often weakens strong 
+verbs with redundant adverbs, cluttering the sentence.
+
+**Adjectives:** Similar to adverbs, many adjectives are unnecessary. If the concept is 
+already in the noun, adding an adjective is often just decoration. Aim for simplicity 
+and avoid burdening the reader with unnecessary details.
+
+**Qualifiers:** Prune out small words that qualify your thoughts—such as "a bit," 
+"sort of," or "very." These dilute your style and weaken your authority. Readers want to 
+trust the writer, so be bold in your statements.
