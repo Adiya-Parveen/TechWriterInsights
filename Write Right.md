@@ -67,3 +67,11 @@ and avoid burdening the reader with unnecessary details.
 **Qualifiers:** Prune out small words that qualify your thoughts—such as "a bit," 
 "sort of," or "very." These dilute your style and weaken your authority. Readers want to 
 trust the writer, so be bold in your statements.
+
+### Crafting Effective Paragraphs
+
+Keep your paragraphs short and visually appealing. Writing is visual before it is 
+intellectual, and a long block of text can be intimidating. Short paragraphs create 
+white space, making your writing more inviting. Study good nonfiction writers, and 
+you’ll see that they think in paragraph units, not just sentence units. Each paragraph 
+should have its own integrity in both content and structure.
